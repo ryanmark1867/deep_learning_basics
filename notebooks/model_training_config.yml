@@ -23,7 +23,7 @@ general: # overall parameters
 test_parms: # parameters to control training
    testproportion: 0.2 # proportion of data reserved for test set
    trainproportion: 0.8 # proportion of non-test data dedicated to training (vs. validation)
-   current_experiment: 0
+   current_experiment: 5
    repeatable_run: False # switch to control whether runs are repeated identically
    get_test_train_acc: True # switch to control whether block to get test and train accuracy is after training
 categorical: # categorical columns
