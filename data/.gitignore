@@ -4,3 +4,4 @@ git_setup.ipynb
 git_push.ipynb
 *.csv
 *.pkl
+*.png
